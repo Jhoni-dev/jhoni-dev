@@ -8,10 +8,10 @@
 ## 🧑‍💻 About me
 Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, accesibles y escalables. Trabajo tanto en front-end como en back-end usando herramientas modernas. Me encanta aprender nuevas tecnologías y mejorar la experiencia del usuario.
 
-- Ubicación: (añade tu ciudad/país)
-- Email: djhoniersamir@gmail.com (reemplaza por tu email)
+- Ubicación: Barranquilla/Colombia
+- Email: djhoniersamir@gmail.com
 - Portfolio: https://tupersonal-portfolio.example.com (reemplaza por tu portfolio)
-- Actualmente: (p. ej. trabajando en X, aprendiendo Y, buscando oportunidades)
+- Actualmente: Buscando oportunidades
 
 ## 🚀 Mi stack
 <p>
