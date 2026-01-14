@@ -1,4 +1,4 @@
-# Hola — soy Jhonier 👋
+# Hola — soy Jhonier
 
 <p align="center">
   <!-- Banner: sustituye la URL por la de tu banner en el repo (por ejemplo: /assets/banner.png) -->
@@ -10,10 +10,9 @@ Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, 
 
 - Ubicación: Barranquilla/Colombia
 - Email: djhoniersamir@gmail.com
-- Portfolio: https://tupersonal-portfolio.example.com (reemplaza por tu portfolio)
 - Actualmente: Buscando oportunidades
 
-## 🚀 Mi stack
+## Mi stack
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,6 +23,7 @@ Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-0F172A?style=for-the-badge&logo=astro&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -31,31 +31,12 @@ Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, 
   <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-token&logoColor=white" />
 </p>
 
-> Tecnologías: CSS3, HTML5, PHP, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, GITHUB, React, Astro, JWT, Vite, Next.JS
+> Tecnologías: CSS3, HTML5, PHP, JavaScript, TypeScript, MySQL, PostgreSQL, MongoDB, GITHUB, Laravel, React, Astro, JWT, Vite, Next.JS
 
 ---
 
-## 📂 Proyectos destacados
-Aquí puedes listar tus proyectos favoritos o los que quieras mostrar primero. Reemplaza los enlaces y descripciones por los tuyos.
-
-- [Proyecto-Portfolio](https://github.com/Jhoni-jpg/proyecto-portfolio)  
-  Descripción: Mi portfolio personal, con proyectos, blog y contacto. Hecho con Next.js + Vercel.  
-  Tecnologías: Next.js, React, TypeScript, CSS Modules
-
-- [Proyecto-API](https://github.com/Jhoni-jpg/proyecto-api)  
-  Descripción: API RESTful con autenticación JWT y persistencia en PostgreSQL.  
-  Tecnologías: Node.js, Express, JWT, PostgreSQL
-
-- [Proyecto-Fullstack](https://github.com/Jhoni-jpg/proyecto-fullstack)  
-  Descripción: App completa con frontend en React y backend en PHP/MySQL.  
-  Tecnologías: React, Vite, PHP, MySQL
-
----
-
-## 📬 Contacto
+## Contacto
 - Email: djhoniersamir@gmail.com  
-- Portafolio: https://tupersonal-portfolio.example.com  
-- LinkedIn: https://www.linkedin.com/in/tu-usuario (opcional)
 
 ---
 
