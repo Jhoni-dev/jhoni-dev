@@ -5,7 +5,7 @@
   <img src="https://placehold.co/1200x260/0f172a/ffffff?text=Jhonier+-+Desarrollador+Web" alt="Banner Jhonier" width="100%" />
 </p>
 
-## 🧑‍💻 About me
+## About me
 Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, accesibles y escalables. Trabajo tanto en front-end como en back-end usando herramientas modernas. Me encanta aprender nuevas tecnologías y mejorar la experiencia del usuario.
 
 - Ubicación: Barranquilla/Colombia
@@ -42,22 +42,22 @@ Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhoni-jpg&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jhoni-dev&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhoni-jpg&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhoni-jpg&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jhoni-dev&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jhoni-dev&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhoni-jpg&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhoni-jpg&theme=github_dark&utcOffset=-5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jhoni-dev&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jhoni-dev&theme=github_dark&utcOffset=-5" alt="Productive Time" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophies.vercel.app/?username=Jhoni-jpg&theme=dark" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophies.vercel.app/?username=Jhoni-dev&theme=dark" />
 </p>
 
 ---
