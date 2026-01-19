@@ -30,9 +30,10 @@ Soy desarrollador web full‑stack con interés en crear aplicaciones rápidas, 
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-> Tecnologías: CSS3, Tailwind, HTML5, PHP, Laravel, JavaScript, TypeScript, React, Astro, JWT, Vite, Next.JS, MySQL, PostgreSQL, MongoDB, GITHUB
+> Tecnologías: CSS3, Tailwind, HTML5, PHP, Laravel, JavaScript, TypeScript, React, Astro, JWT, Vite, Next.JS, MySQL, PostgreSQL, MongoDB, GitHub, Git
 
 ---
 
